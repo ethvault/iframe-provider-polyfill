@@ -37,5 +37,5 @@ the javascript won't change.
 
 Unpkg
 ```html
-<script src="https://unpkg.com/@ethvault/iframe-provider-polyfill@0.1.1/dist/index.js" integrity="sha384-K3KSqdct/9pHYKx98VePP4Ny9YONPevk6wbUtVgBosvmVTv5iuJ8hJDugD7EwqmN" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@ethvault/iframe-provider-polyfill@0.1.2/dist/index.js" integrity="sha384-CDB3kUYu7ojpngaqkoUebvNNVLw+qjejRNcutoNVKr6dHoZtbhLo2YTq4mpYlv5y" crossorigin="anonymous"></script>
 ```
