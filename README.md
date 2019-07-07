@@ -1,5 +1,7 @@
 # ethvault/iframe-provider-polyfill
 
+[![Build Status](https://travis-ci.org/ethvault/iframe-provider-polyfill.svg?branch=master)](https://travis-ci.org/ethvault/iframe-provider-polyfill)
+
 This is a drop in script that overrides web3 to point at the parent window when the page is embedded in an iframe.
 This makes the page instantly compatible with Ethvault.
 
