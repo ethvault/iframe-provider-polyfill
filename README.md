@@ -33,6 +33,7 @@ Or use a CDN like unpkg or rawgit to get it directly from the source. Thanks to
 [subresource integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity), you can be sure 
 the javascript won't change.
 
+Unpkg
 ```html
-<script src=""/>
+<script src="https://unpkg.com/@ethvault/iframe-provider-polyfill@0.1.1/dist/index.js" integrity="sha384-K3KSqdct/9pHYKx98VePP4Ny9YONPevk6wbUtVgBosvmVTv5iuJ8hJDugD7EwqmN" crossorigin="anonymous"></script>
 ```
