@@ -1,6 +1,6 @@
 {
   "name": "@ethvault/iframe-provider-polyfill",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Polyfill web3/ethereum with a provider that uses the parent window when available",
   "main": "dist/index.js",
   "scripts": {
@@ -9,6 +9,9 @@
     "prebuild": "npm run clean",
     "build": "webpack --config webpack.config.js"
   },
+  "files": [
+    "dist/index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ethvault/iframe-provider-polyfill.git"
