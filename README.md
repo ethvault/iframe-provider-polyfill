@@ -36,7 +36,7 @@ Or use a CDN like [unpkg](https://unpkg.com).
 Use [subresource integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity),
 to prevent security vulnerabilities.
 
-(v0.1.3)
+(v0.1.4)
 ```html
-<script src="https://unpkg.com/@ethvault/iframe-provider-polyfill@0.1.3/dist/index.js" integrity="sha384-ZyiCo4kSqbweMOmopAciwaVi777CpHdHoVn7j/Gq75ocldvNA+65S+45yIj6Xznr" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@ethvault/iframe-provider-polyfill@0.1.4/dist/index.js" integrity="sha384-MGEYVJJ9mpRbqHLuHyg9xjmzCG3WPS0XCWf0lNF07q1NN6WUPzBdDMW/6LRRBhxQ" crossorigin="anonymous"></script>
 ```
