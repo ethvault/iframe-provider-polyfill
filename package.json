@@ -1,6 +1,6 @@
 {
   "name": "@ethvault/iframe-provider-polyfill",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Polyfill web3/ethereum with a provider that uses the parent window when the site is embedded in an iframe",
   "main": "dist/index.js",
   "scripts": {
